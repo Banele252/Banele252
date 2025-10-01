@@ -1,11 +1,12 @@
-## Hi there 👋
-
+## Hi there 👋, I am Banele Mdluli, a Data Analyst with more than 3 years of experience. I am currently a data analyst focusing on fraud analytics.
+- 🔭 I’m currently working on developing repos for my personal projects.
+- 🌱 I’m currently learning Databricks and Azure. I am planning to become a Data Engineer and ensure data analysts receive accurate data for their tasks.
 <!--
 **Banele252/Banele252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
